@@ -1,2 +1,2 @@
 # project-lion
-The next generation of KSAClan.xyz (this repo will be left inactive until 1.0)
+The next generation of KSAClan.xyz, Project Lion aims to return KSAClan.xyz to it's former state while improving security and adding new features.
